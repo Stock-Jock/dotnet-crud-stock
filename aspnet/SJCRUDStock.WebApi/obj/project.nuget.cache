@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+QD0u9mvq2k/6m0vnlDK8+yWaxFtZ7XKGuFu/WQiyjf0FbEBzdfk8RfygdMZ0n1lcXD7sUpIj0utbNJELopoQ==",
+  "dgSpecHash": "szIFhGJA/cBstOkKMSVqa9qua9d7uyiH1p++iJkL96hFuBF+HFOEVc9iUE6YkM7oUIBxAYcoY/YnxvQBp+uWdg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Workspace\\StockJock\\dotnet-crud-stock\\aspnet\\SJCRUDStock.WebApi\\SJCRUDStock.WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\coverlet.msbuild\\3.0.3\\coverlet.msbuild.3.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
