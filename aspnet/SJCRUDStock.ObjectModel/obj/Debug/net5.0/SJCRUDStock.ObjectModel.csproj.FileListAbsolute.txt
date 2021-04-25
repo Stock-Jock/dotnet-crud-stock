@@ -1,0 +1,12 @@
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\bin\Debug\net5.0\SJCRUDStock.ObjectModel.deps.json
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\bin\Debug\net5.0\SJCRUDStock.ObjectModel.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\bin\Debug\net5.0\ref\SJCRUDStock.ObjectModel.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\bin\Debug\net5.0\SJCRUDStock.ObjectModel.pdb
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\obj\Debug\net5.0\SJCRUDStock.ObjectModel.csprojAssemblyReference.cache
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\obj\Debug\net5.0\SJCRUDStock.ObjectModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\obj\Debug\net5.0\SJCRUDStock.ObjectModel.AssemblyInfoInputs.cache
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\obj\Debug\net5.0\SJCRUDStock.ObjectModel.AssemblyInfo.cs
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\obj\Debug\net5.0\SJCRUDStock.ObjectModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\obj\Debug\net5.0\SJCRUDStock.ObjectModel.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\obj\Debug\net5.0\ref\SJCRUDStock.ObjectModel.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.ObjectModel\obj\Debug\net5.0\SJCRUDStock.ObjectModel.pdb

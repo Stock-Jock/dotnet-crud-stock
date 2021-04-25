@@ -1,10 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CoverageSession>
-  <Summary numSequencePoints="35" visitedSequencePoints="0" numBranchPoints="2" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="7" minCyclomaticComplexity="7" visitedClasses="0" numClasses="2" visitedMethods="0" numMethods="6" />
+  <Summary numSequencePoints="35" visitedSequencePoints="0" numBranchPoints="2" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="7" minCyclomaticComplexity="0" visitedClasses="0" numClasses="2" visitedMethods="0" numMethods="6" />
   <Modules>
-    <Module hash="5EBAC745-AD52-44D5-8A70-D98F83BF076D">
+    <Module hash="3328F20E-3999-43B2-B565-5F41FEE1BB8D">
+      <ModulePath>SJCRUDStock.ObjectModel.dll</ModulePath>
+      <ModuleTime>2021-04-25T08:16:09</ModuleTime>
+      <ModuleName>SJCRUDStock.ObjectModel</ModuleName>
+      <Files />
+      <Classes />
+    </Module>
+    <Module hash="FB5FD847-7D9F-4E1D-9A4B-659261FCBC1A">
       <ModulePath>SJCRUDStock.WebApi.dll</ModulePath>
-      <ModuleTime>2021-04-25T07:12:00</ModuleTime>
+      <ModuleTime>2021-04-25T08:16:09</ModuleTime>
       <ModuleName>SJCRUDStock.WebApi</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.WebApi\Program.cs" />

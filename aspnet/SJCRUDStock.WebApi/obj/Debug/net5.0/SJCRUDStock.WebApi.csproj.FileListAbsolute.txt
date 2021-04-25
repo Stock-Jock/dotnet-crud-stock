@@ -35,3 +35,6 @@ C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.WebApi\o
 C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.WebApi\obj\Debug\net5.0\ref\SJCRUDStock.WebApi.dll
 C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.WebApi\obj\Debug\net5.0\SJCRUDStock.WebApi.pdb
 C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.WebApi\obj\Debug\net5.0\SJCRUDStock.WebApi.genruntimeconfig.cache
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.WebApi\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.WebApi\bin\Debug\net5.0\SJCRUDStock.ObjectModel.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.WebApi\bin\Debug\net5.0\SJCRUDStock.ObjectModel.pdb
