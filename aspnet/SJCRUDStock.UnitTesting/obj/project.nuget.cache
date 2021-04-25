@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wQSn7I3tC6GrNxd+7awDbsDRRF1cobZ+WRIL746lyMY1+ju6QGhBDHm89/j05wcgaId5hTabc1jODNZiKyAi1A==",
+  "dgSpecHash": "hO8CGC3fy6p9M+7izJ2fFDMkwWi2yUqCGZzeRmbM7kS1xEq6fVXs1mS+fcfvXwr95tn8g8xyPvQASp5VH9xjjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Workspace\\StockJock\\dotnet-crud-stock\\aspnet\\SJCRUDStock.UnitTesting\\SJCRUDStock.UnitTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\coverlet.msbuild\\3.0.3\\coverlet.msbuild.3.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
