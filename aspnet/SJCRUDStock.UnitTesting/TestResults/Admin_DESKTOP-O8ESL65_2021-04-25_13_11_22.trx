@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="39f292aa-db25-4ed4-92a0-db23dee1742b" name="Admin@DESKTOP-O8ESL65 2021-04-25 13:11:22" runUser="DESKTOP-O8ESL65\Admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-04-25T13:11:22.0609079-07:00" queuing="2021-04-25T13:11:22.0609105-07:00" start="2021-04-25T13:11:18.5020415-07:00" finish="2021-04-25T13:11:22.0641585-07:00" />
+  <TestSettings name="default" id="c33a52e8-1814-4df9-9c6e-a261d647d08c">
+    <Deployment runDeploymentRoot="Admin_DESKTOP-O8ESL65_2021-04-25_13_11_22" />
+  </TestSettings>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="0" executed="0" passed="0" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.0)&#xD;
+[xUnit.net 00:00:01.20]   Discovering: SJCRUDStock.UnitTesting&#xD;
+[xUnit.net 00:00:01.22]   Discovered:  SJCRUDStock.UnitTesting&#xD;
+</StdOut>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="DESKTOP-O8ESL65" outcome="Warning" timestamp="2021-04-25T13:11:21.7356240-07:00">
+        <Text>No test is available in C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.UnitTesting\bin\Debug\net5.0\SJCRUDStock.UnitTesting.dll. Make sure that test discoverer &amp; executors are registered and platform &amp; framework version settings are appropriate and try again.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>

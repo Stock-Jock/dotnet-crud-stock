@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LMZJ/h+uLCWtJc/QOQBhDL3jAY1zmHVX/KEOGX4lzFHvmvTv7sJQi6Lc74D4lES/x3PKIB21KsnzHGlwoMjK1g==",
+  "dgSpecHash": "XTAXBkr9dG+DKzjQg9Xrj1+3+jK6rKYE2F1fZpHA8nJ4N19JpzPN06zgJ6CaJbhn/78cN/LqY73bYf9WqbDcxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Workspace\\StockJock\\dotnet-crud-stock\\aspnet\\SJCRUDStock.UnitTesting\\SJCRUDStock.UnitTesting.csproj",
   "expectedPackageFiles": [

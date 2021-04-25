@@ -115,3 +115,5 @@ C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.UnitTest
 C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.UnitTesting\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.UnitTesting\bin\Debug\net5.0\SJCRUDStock.WebApi.dll
 C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.UnitTesting\bin\Debug\net5.0\SJCRUDStock.WebApi.pdb
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.UnitTesting\bin\Debug\net5.0\SJCRUDStock.ObjectModel.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.UnitTesting\bin\Debug\net5.0\SJCRUDStock.ObjectModel.pdb
