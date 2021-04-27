@@ -29,6 +29,6 @@ namespace SJCRUDStock.WebApi.Controllers
         [HttpGet]
         [ProducesResponseType(typeof(Task), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public async Task<IActionResult> GetSymbol() => Ok(await stockService.GetStockList());
+        public async Task<IActionResult> GetSymbol() => Ok(await stockService.GetStockItems());
     }
 }
