@@ -15,21 +15,29 @@ namespace SJCRUDStock.DataService.Repositories
         private List<Stock> StockList;
         private Stock Stock;
         private Stock Stock1;
+        private Stock Stock2;
 
         public StockRepo(/*StockContext context*/)
         {
             // _ctx = ctx;
 
             Stock = new Stock() {
-                Symbol = "Stock Symbol",
-                Name = "Stock Name",
+                Symbol = "Stock Symbol 1",
+                Name = "Stock Name 1",
                 ExchangeName = "Exchange Name",
                 Currency = "Currency"
             };
 
             Stock1 = new Stock() {
-                Symbol = "Stock Symbol",
-                Name = "Stock Name",
+                Symbol = "Stock Symbol 2",
+                Name = "Stock Name 2",
+                ExchangeName = "Exchange Name",
+                Currency = "Currency"
+            };
+
+            Stock2 = new Stock() {
+                Symbol = "Stock Symbol 3",
+                Name = "Stock Name 3",
                 ExchangeName = "Exchange Name",
                 Currency = "Currency"
             };
@@ -47,7 +55,7 @@ namespace SJCRUDStock.DataService.Repositories
         }
         public async Task<Stock> AddStockItem()
         {
-            throw new NotImplementedException();
+            return Stock2;
         }
     }
 }
