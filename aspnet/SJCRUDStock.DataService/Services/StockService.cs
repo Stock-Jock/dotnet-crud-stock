@@ -19,5 +19,10 @@ namespace SJCRUDStock.DataService.Services
         {
             return await StockRepo.GetStockItems();
         }
+
+        public async Task<Stock> RemoveStockItem()
+        {
+            return await StockRepo.RemoveStockItem();
+        }
     }
 }

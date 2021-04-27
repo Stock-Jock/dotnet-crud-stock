@@ -7,5 +7,6 @@ namespace SJCRUDStock.DataService.Interfaces
     public interface IStockService
     {
         Task<IEnumerable<Stock>> GetStockList();
+        Task<Stock> RemoveStockItem();
     }
 }
