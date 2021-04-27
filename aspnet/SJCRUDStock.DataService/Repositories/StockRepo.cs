@@ -45,5 +45,9 @@ namespace SJCRUDStock.DataService.Repositories
             // var query = _ctx.StockItems.{OrderByDescending}(p => p.Timestamp);
             // return await query.ToListAsync<Stock>();
         }
+        public async Task<Stock> AddStockItem()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -8,5 +8,6 @@ namespace SJCRUDStock.DataService.Interfaces
     public interface IStockRepo
     {
         Task<List<Stock>> GetStockItems();
+        Task<Stock> AddStockItem();
     }
 }
