@@ -211,6 +211,19 @@
           }
         }
       },
+      "SJCRUDStock.DataService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "SJCRUDStock.ObjectModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SJCRUDStock.DataService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SJCRUDStock.DataService.dll": {}
+        }
+      },
       "SJCRUDStock.ObjectModel/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -653,6 +666,11 @@
         "version.txt"
       ]
     },
+    "SJCRUDStock.DataService/1.0.0": {
+      "type": "project",
+      "path": "../SJCRUDStock.DataService/SJCRUDStock.DataService.csproj",
+      "msbuildProject": "../SJCRUDStock.DataService/SJCRUDStock.DataService.csproj"
+    },
     "SJCRUDStock.ObjectModel/1.0.0": {
       "type": "project",
       "path": "../SJCRUDStock.ObjectModel/SJCRUDStock.ObjectModel.csproj",
@@ -663,6 +681,7 @@
     "net5.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.0",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 5.0.0",
+      "SJCRUDStock.DataService >= 1.0.0",
       "SJCRUDStock.ObjectModel >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3",
       "coverlet.msbuild >= 3.0.3"
@@ -693,6 +712,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\Admin\\Workspace\\StockJock\\dotnet-crud-stock\\aspnet\\SJCRUDStock.DataService\\SJCRUDStock.DataService.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Workspace\\StockJock\\dotnet-crud-stock\\aspnet\\SJCRUDStock.DataService\\SJCRUDStock.DataService.csproj"
+            },
             "C:\\Users\\Admin\\Workspace\\StockJock\\dotnet-crud-stock\\aspnet\\SJCRUDStock.ObjectModel\\SJCRUDStock.ObjectModel.csproj": {
               "projectPath": "C:\\Users\\Admin\\Workspace\\StockJock\\dotnet-crud-stock\\aspnet\\SJCRUDStock.ObjectModel\\SJCRUDStock.ObjectModel.csproj"
             }
