@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xESH1gSCkpysNSwAw0FF+LAF/hUqd39Thf2Glp/O/d+9APFAIxqom9NffFyUUG93mzghJh03g+G1bO/pumyX+w==",
+  "dgSpecHash": "xLLAZY8YLDuth4sdbNV8QeirmBDj1m06Dv2xDDJiNotaw4NodzPCIQ/K9QQAB4v2sJWqO6Y4NfCLNOOANXySSw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Workspace\\StockJock\\dotnet-crud-stock\\aspnet\\SJCRUDStock.WebApi\\SJCRUDStock.WebApi.csproj",
   "expectedPackageFiles": [

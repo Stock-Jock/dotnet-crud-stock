@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SJCRUDStock.ObjectModel\SJCRUDStock.ObjectModel.csproj" />
+    <ProjectReference Include="..\SJCRUDStock.DataService\SJCRUDStock.DataService.csproj" />
   </ItemGroup>
 
 </Project>

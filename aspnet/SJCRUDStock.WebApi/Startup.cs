@@ -11,6 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using SJCRUDStock.DataService.Interfaces;
+using SJCRUDStock.DataService.Services;
+using SJCRUDStock.DataService.Repositories;
 
 namespace SJCRUDStock.WebApi
 {
@@ -28,6 +31,8 @@ namespace SJCRUDStock.WebApi
         {
 
             services.AddControllers();
+            services.AddScoped<IStockService, StockService>();
+            services.AddScoped<IStockRepo, StockRepo>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SJCRUDStock.WebApi", Version = "v1" });

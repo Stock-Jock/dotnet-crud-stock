@@ -1,0 +1,15 @@
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\obj\Debug\net5.0\SJCRUDStock.DataService.csprojAssemblyReference.cache
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\obj\Debug\net5.0\SJCRUDStock.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\obj\Debug\net5.0\SJCRUDStock.DataService.AssemblyInfoInputs.cache
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\obj\Debug\net5.0\SJCRUDStock.DataService.AssemblyInfo.cs
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\obj\Debug\net5.0\SJCRUDStock.DataService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\bin\Debug\net5.0\SJCRUDStock.DataService.deps.json
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\bin\Debug\net5.0\SJCRUDStock.DataService.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\bin\Debug\net5.0\ref\SJCRUDStock.DataService.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\bin\Debug\net5.0\SJCRUDStock.DataService.pdb
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\bin\Debug\net5.0\SJCRUDStock.ObjectModel.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\bin\Debug\net5.0\SJCRUDStock.ObjectModel.pdb
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\obj\Debug\net5.0\SJCRUDStock.DataService.csproj.CopyComplete
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\obj\Debug\net5.0\SJCRUDStock.DataService.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\obj\Debug\net5.0\ref\SJCRUDStock.DataService.dll
+C:\Users\Admin\Workspace\StockJock\dotnet-crud-stock\aspnet\SJCRUDStock.DataService\obj\Debug\net5.0\SJCRUDStock.DataService.pdb
