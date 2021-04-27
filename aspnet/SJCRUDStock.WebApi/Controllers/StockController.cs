@@ -30,5 +30,14 @@ namespace SJCRUDStock.WebApi.Controllers
         [ProducesResponseType(typeof(Task), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<IActionResult> GetSymbol() => Ok(await stockService.GetStockList());
+    
+        /// </summary>
+        /// Removes a stock item from a list
+        /// </summary>
+        /// <returns></returns>
+        [HttpDelete]
+        [ProducesResponseType(typeof(Task), StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> RemoveStockItem() => Ok(await stockService.RemoveStockItem());
     }
 }
