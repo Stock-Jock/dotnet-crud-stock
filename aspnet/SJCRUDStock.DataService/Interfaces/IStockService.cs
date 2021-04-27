@@ -1,9 +1,11 @@
-using SJObjectModel.Models;
+using SJCRUDStock.ObjectModel.Models;
+using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace SJCRUDStock.DataService.Interfaces
 {
     public interface IStockService
     {
-        public async Stock[] GetStockList();
+        Task<IEnumerable<Stock>> GetStockList();
     }
 }

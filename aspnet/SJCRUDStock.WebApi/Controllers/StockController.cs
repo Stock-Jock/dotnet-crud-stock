@@ -1,8 +1,9 @@
-using System.Collections;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SJCRUDStock.DataService.Interfaces;
+using SJCRUDStock.DataService.Services;
 using SJCRUDStock.ObjectModel.Models;
 
 namespace SJCRUDStock.WebApi.Controllers
@@ -22,11 +23,11 @@ namespace SJCRUDStock.WebApi.Controllers
         }
     
         /// </summary>
-        /// Allows access to stock symbol data
+        /// Returns a list of stock items
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        [ProducesResponseType(typeof(Stock[]), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(Task), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<IActionResult> GetSymbol() => Ok(await stockService.GetStockList());
     }

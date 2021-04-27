@@ -1,29 +1,23 @@
+using System.Threading.Tasks;
+using System.Collections.Generic;
 using SJCRUDStock.DataService.Interfaces;
-using SJObjectModel.Models;
+using SJCRUDStock.ObjectModel.Models;
+using SJCRUDStock.DataService.Repositories;
 
 namespace SJCRUDStock.DataService.Services
 {
     public class StockService : IStockService
     {
-        private Stock[] StockList;
-        private Stock Stock;
+        private IStockRepo StockRepo;
 
         public StockService()
         {
-            StockList = new Stock[];
-            Stock = new Stock() {
-                Symbol = "Stock Symbol",
-                Name = "Stock Name",
-                ExchangeNama = "Exchange Name",
-                Currency = "Currency"
-            };
-
-            StockList[0] = Stock;
+            StockRepo = new StockRepo();
         }
 
-        public async Stock[] GetStockList()
+        public async Task<IEnumerable<Stock>> GetStockList()
         {
-            return await StockList;
+            return await StockRepo.GetStocks();
         }
     }
 }
