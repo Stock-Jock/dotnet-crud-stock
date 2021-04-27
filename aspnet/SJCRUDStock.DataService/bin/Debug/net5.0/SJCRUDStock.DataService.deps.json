@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SJCRUDStock.DataService/1.0.0": {
+        "dependencies": {
+          "SJCRUDStock.ObjectModel": "1.0.0"
+        },
+        "runtime": {
+          "SJCRUDStock.DataService.dll": {}
+        }
+      },
+      "SJCRUDStock.ObjectModel/1.0.0": {
+        "runtime": {
+          "SJCRUDStock.ObjectModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SJCRUDStock.DataService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SJCRUDStock.ObjectModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

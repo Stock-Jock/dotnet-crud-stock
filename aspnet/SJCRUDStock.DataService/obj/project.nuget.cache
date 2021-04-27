@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Hfu8AyzwUX189TJB18av9V4rs93AZ0BymjShcHRZUFZX9q7GHM61DpYbsm43mXqdrE8cH0mz0NA6ljhndmaoeg==",
+  "dgSpecHash": "aDn0zLsNhqSqPvzO908uUBkpiWNoJ4AyB2UFZcIodycQMXTHFSsIXEgekdx893paNn4y2XSwMHpxfXULwnWT6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Workspace\\StockJock\\dotnet-crud-stock\\aspnet\\SJCRUDStock.DataService\\SJCRUDStock.DataService.csproj",
   "expectedPackageFiles": [],
