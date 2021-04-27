@@ -17,7 +17,7 @@ namespace SJCRUDStock.DataService.Services
 
         public async Task<IEnumerable<Stock>> GetStockList()
         {
-            return await StockRepo.GetStocks();
+            return await StockRepo.GetStockItems();
         }
     }
 }

@@ -38,12 +38,12 @@ namespace SJCRUDStock.DataService.Repositories
             StockList.Add(Stock);
             StockList.Add(Stock1);
         }
-        public async Task<List<Stock>> GetStocks()
+        public async Task<List<Stock>> GetStockItems()
         {
             return StockList;
 
-            // var query = _ctx.Posts.OrderByDescending(p => p.Timestamp).Skip(offset).Take(pageSize);
-            // return await query.ToListAsync<PostModel>();
+            // var query = _ctx.StockItems.{OrderByDescending}(p => p.Timestamp);
+            // return await query.ToListAsync<Stock>();
         }
     }
 }
